@@ -3,4 +3,9 @@ third line txt
 git pull changes
 Forth commit
 Fifth Change
+<<<<<<< HEAD
 Sixth change
+=======
+>>>>>>> d9519fcc242f964b42c424a3778e1d64b8fc0f22
+seventh change
+>>>>>>> 80df324f49b816087960fa040d7b4924b7eae71e
